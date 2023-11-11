@@ -40,3 +40,4 @@ const Functions = function(){
 }
 
 console.log(typeof anime);
+
