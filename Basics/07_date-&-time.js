@@ -10,3 +10,8 @@ console.log(typeof Mydate);
 
 let MynewDate = new Date(2021, 5, 28)
 console.log(MynewDate.toLocaleTimeString());
+
+let myTime = Date.now()
+
+console.log(myTime);
+console.log(MynewDate.getTime);
