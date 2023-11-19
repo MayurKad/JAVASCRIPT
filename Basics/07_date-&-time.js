@@ -15,3 +15,8 @@ let myTime = Date.now()
 
 console.log(myTime);
 console.log(MynewDate.getTime);
+console.log(Math.floor(Date.now()/1000));
+
+Newdate.toLocaleDateString('default',{
+    weekday:"long",
+})
